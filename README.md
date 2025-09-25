@@ -14,26 +14,27 @@ Design a user-centered, accessible, and emotionally supportive interface for a p
    * Set design vision and goals.
    * Coordinate team members and tasks.
    * Ensure design quality and consistency.
-   * Approve final designs and manage deadlines. 
-- ### Alaa Hamdy Wahba - UX Researcher
+   * Approve final designs and manage deadlines.
+      
+- ### dina abdelfattah abdelsalam mohamed - UX Researcher
   * Conduct user interviews and surveys.
   * Analyze user needs and behaviors.
   * Create personas and user journey maps.
   * Share insights to guide design decisions.
     
-- ### Yasmin Wagdy Shendy Abdelaty - UX Designer
+- ### Heba Osama Mohammed Saleh - UX Designer
   * Design user flows and wireframes.
   * Define layout and navigation structure.
   * Ensure intuitive and accessible experiences.
   * Align design with research findings.
     
-- ### Heba Osama Mohammed Saleh - UI Designer
+- ### Yasmin Wagdy Shendy Abdelaty - UI Designer
   * Create visual design (colors, fonts, icons).
   * Build high-fidelity mockups and prototypes.
   * Develop a consistent design system.
   * Ensure visual accessibility and aesthetics.
     
-- ### dina abdelfattah abdelsalam mohamed - Interaction Designer
+- ### Alaa Hamdy Wahba - Interaction Designer
   * Design animations and microinteractions.
   * Add motion for feedback and flow.
   * Ensure smooth transitions and responsiveness.
