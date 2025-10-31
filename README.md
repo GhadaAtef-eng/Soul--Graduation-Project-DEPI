@@ -2,7 +2,9 @@
 ### Graduation Project for DEPI
 
 ## Project Overview
-Our project is An online platform for psychological rehabilitation and therapy that supports people of all ages to understand their problems, face them with confidence, and find the right solutions guided by professional psychologists and proven therapies
+Soul is a digital platform created to empower and support parents of children with special needs.
+It provides access to reliable information, professional guidance, emotional support, and practical tools all in one place.
+Through a compassionate and inclusive design, Soul aims to connect families with trusted experts, helpful resources, and a caring community that understands their journey.
 
 ## Project Goal:
 Design a user-centered, accessible, and emotionally supportive interface for a platform offering psychological rehabilitation and therapy services online.
