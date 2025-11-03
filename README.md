@@ -1,5 +1,5 @@
 # Soul  
-### Soul is a digital platform created to empower and support parents of children with special need
+### Soul is a digital platform created to empower and support parents of children with special needs
 
 ## Project Overview
 Soul is a digital platform created to empower and support parents of children with special needs.
@@ -52,7 +52,7 @@ Parents and guardians of children with special needs, professionals (doctors, th
 * UI kit (buttons, icons, typography)
 * Usability test report
 
-## Phase 4: Content Creation (1–2 weeks)
+## Phase 4: Content Creation
 ### Tasks:
 * Write website copy (About, FAQ, Services, Doctor Profiles, Articles).
 * Create imagery (photos, icons) or choose from free image libraries.
@@ -61,10 +61,26 @@ Parents and guardians of children with special needs, professionals (doctors, th
 * Final content (text + visuals)
 * Content upload sheet
 
+## Phase 5: Development
+### Tasks:
+* Integrate features:
+⭐ Ratings & Reviews
+📅 Booking System
+🧭 Map for Nearby Clinics
+💬 “Ask a Specialist” form
+* Responsive design for all devices.
 
-## Drive link: https://drive.google.com/drive/folders/1CaOpJg4WvzUdSgltu4e17cnbeW1xKXA6?usp=sharing
+## Review & Finalization
+* Team review and improvements
+* Export & delivery specs
+
+## Final Presentation
+* Behance-style portfolio
+* Presentation PDF
+* Upload to GitHub
 
 ## Roles & Responsibilities
+
 - ### Ghada Atef Mohamed Askar  – Team Leader
    * Set design vision and goals.
    * Coordinate team members and tasks.
@@ -100,6 +116,13 @@ Parents and guardians of children with special needs, professionals (doctors, th
   * Find usability and accessibility issues.
   * Run A/B tests and collect feedback.
   * Recommend improvements before development.
+
+  # Instructor
+  Eman Abdellatif
+
+  ## Drive link:
+You can find the full project files here:
+https://drive.google.com/drive/folders/1CaOpJg4WvzUdSgltu4e17cnbeW1xKXA6?usp=sharing
 
 
 
