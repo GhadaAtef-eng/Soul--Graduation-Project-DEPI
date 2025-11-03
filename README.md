@@ -1,5 +1,5 @@
 # Soul  
-### Graduation Project for DEPI
+### Soul is a digital platform created to empower and support parents of children with special need
 
 ## Project Overview
 Soul is a digital platform created to empower and support parents of children with special needs.
@@ -7,18 +7,71 @@ It provides access to reliable information, professional guidance, emotional sup
 Through a compassionate and inclusive design, Soul aims to connect families with trusted experts, helpful resources, and a caring community that understands their journey.
 
 ## Project Goal:
-Design a user-centered, accessible, and emotionally supportive interface for a platform offering psychological rehabilitation and therapy services online.
+To create a user-friendly, inclusive website that supports parents of children with special needs through information, expert guidance, and community connection.
+## Target Audience:
+Parents and guardians of children with special needs, professionals (doctors, therapists, educators), and support organizations.
+
+# Team Members
+* Ghada Atef Mohamed Askar
+* Dina Ali
+* Heba Osama Mohamed Saleh
+* Yasmin Wagdy Shendy Abdelaty
+* Alaa Hamdy Wahba
+* Sherif Ali Mohamed Ibrahim Hassanin
+
+# Work Plan
+## 1- Phase 1: Research & Discovery
+### Tasks:
+* Define user personas (e.g., parent, therapist, doctor).
+* Conduct interviews/surveys with parents.
+* Research competitors and best practices in accessibility and health-related websites.
+* Identify key problems to solve.
+### Deliverables:
+* Research report
+* User personas
+* Problem statement and goals
+
+## Phase 2: Information Architecture
+### Tasks:
+* Create sitemap (main pages: Home, About, Services, Doctors, Resources, Community, Contact).
+* Define navigation flow and page hierarchy.
+* Prepare wireframes for desktop and mobile.
+### Deliverables:
+* Sitemap diagram
+* Wireframes (low fidelity)
+
+## Phase 3: UI/UX Design
+### Tasks:
+* Define color palette (soft, calm colors for accessibility).
+* Choose readable fonts (Arabic + English).
+* Design high-fidelity mockups in Figma.
+* Include accessibility standards (contrast, alt text, keyboard navigation).
+* Conduct user testing for feedback.
+### Deliverables:
+* Figma design file (responsive)
+* UI kit (buttons, icons, typography)
+* Usability test report
+
+## Phase 4: Content Creation (1–2 weeks)
+### Tasks:
+* Write website copy (About, FAQ, Services, Doctor Profiles, Articles).
+* Create imagery (photos, icons) or choose from free image libraries.
+* Translate key sections into Arabic/English if bilingual.
+### Deliverables:
+* Final content (text + visuals)
+* Content upload sheet
+
 
 ## Drive link: https://drive.google.com/drive/folders/1CaOpJg4WvzUdSgltu4e17cnbeW1xKXA6?usp=sharing
 
-## Meet Our Team
+## Roles & Responsibilities
 - ### Ghada Atef Mohamed Askar  – Team Leader
    * Set design vision and goals.
    * Coordinate team members and tasks.
    * Ensure design quality and consistency.
    * Approve final designs and manage deadlines.
       
-- ### dina abdelfattah abdelsalam mohamed - UX Researcher
+- ### Dina Ali - UX Researcher
   * Conduct user interviews and surveys.
   * Analyze user needs and behaviors.
   * Create personas and user journey maps.
