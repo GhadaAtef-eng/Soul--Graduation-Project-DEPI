@@ -122,7 +122,8 @@ Parents and guardians of children with special needs, professionals (doctors, th
 
    ## Case Study link Figma:
 You can find the full project Case Study here:
-https://www.figma.com/design/EB2ctGUQavEIC5GNPbFjxj/Case-Study?node-id=0-1&p=f&t=4Rds6quJ6oX50FHT-0
+https://www.figma.com/design/EB2ctGUQavEIC5GNPbFjxj/Case-Study?m=auto&t=cLnj2cf0f7U0NOkg-6
+
 
  ## Case Study PDF link:
 You can find the full project Case Study here:
