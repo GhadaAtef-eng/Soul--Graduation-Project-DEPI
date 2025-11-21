@@ -127,6 +127,7 @@ https://www.figma.com/design/EB2ctGUQavEIC5GNPbFjxj/Case-Study?m=auto&t=cLnj2cf0
 
  ## Case Study PDF link:
 You can find the full project Case Study here:
+https://drive.google.com/drive/folders/10eJxFC1auFClCZW2_eKsmVGzf_bP8_Jm?usp=sharing
 
 
   ## Drive link:
