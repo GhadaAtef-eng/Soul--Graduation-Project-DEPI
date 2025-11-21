@@ -120,6 +120,14 @@ Parents and guardians of children with special needs, professionals (doctors, th
   # Instructor
   Eman Abdellatif
 
+   ## Case Study link Figma:
+You can find the full project Case Study here:
+https://www.figma.com/design/EB2ctGUQavEIC5GNPbFjxj/Case-Study?node-id=0-1&p=f&t=4Rds6quJ6oX50FHT-0
+
+ ## Case Study PDF link:
+You can find the full project Case Study here:
+
+
   ## Drive link:
 You can find the full project files here:
 https://drive.google.com/drive/folders/1CaOpJg4WvzUdSgltu4e17cnbeW1xKXA6?usp=sharing
