@@ -20,6 +20,139 @@ Parents and guardians of children with special needs, professionals (doctors, th
 * Sherif Ali Mohamed Ibrahim Hassanin
 
 # What we do in SOUL?
+Visual & Brand Design
+1. Create Visual Design System
+•	Define primary, secondary, and accent color palettes (with light & dark variants).
+•	Select typography system (heading fonts, body fonts, accessible line spacing).
+•	Establish iconography style (outline, filled, rounded, custom).
+•	Define spacing, grid, and layout rules.
+________________________________________
+👤 Design Persona
+Develop user personas including:
+•	Demographics (parent type, educator, therapist, etc.)
+•	Needs, goals, challenges, and motivations
+•	Pain points related to supporting children with special needs
+•	Behavioral patterns & emotional drivers
+•	Accessibility needs (cognitive, visual, motor considerations)
+________________________________________
+📋 Create User Survey
+A structured survey to understand:
+•	Parent challenges and priorities
+•	User digital behavior
+•	Required features in Soul platform
+•	Accessibility requirements
+•	Device preference (mobile vs desktop)
+•	Trust + emotional comfort factors
+Survey includes:
+•	Multiple choice
+•	Likert scale
+•	Short-answer questions
+•	Task-focused questions (e.g., booking, searching, learning)
+________________________________________
+💻 Website UI Design
+Full UI design for all web pages:
+•	Homepage
+•	Learn & Support
+•	Parent Education Hub
+•	Guidance & Learning
+•	Doctors directory + booking
+•	Child profile (vaccine page, therapy tracking)
+•	Educational centers + school listings
+•	User account, settings, accessibility tools
+•	Dark mode for some sections
+•	Responsive layouts for desktop/tablet/mobile
+All include:
+•	Wireframes
+•	High-fidelity mockups
+•	Component-based layout
+•	Correct UX flow patterns
+________________________________________
+📱 Mobile Application UI Design
+Design app-specific flows:
+•	Onboarding
+•	Parent dashboard
+•	Notifications
+•	Therapy progress
+•	Learning programs
+•	Chat/Ask a Specialist
+•	Bookings
+•	Child records
+•	Dark mode screens
+With mobile gestures, micro-interactions, and accessibility touch targets.
+________________________________________
+🔧 Design Prototypes
+Build full interactive prototypes:
+•	Clickable prototype for website
+•	Clickable prototype for mobile app
+•	Includes transitions, animations, micro-interactions
+•	Usability testing–ready flows
+•	Scenarios: booking a doctor, adding a child profile, finding programs, etc.
+________________________________________
+🎛 Develop a Consistent Design System
+A complete design system including:
+•	Colors, fonts, icons
+•	Buttons & inputs
+•	Cards & components
+•	Navigation patterns
+•	Forms and error states
+•	Accessibility guidelines
+•	Light & dark mode rules
+•	Illustrations & imagery style
+•	Figma library setup
+________________________________________
+♿ Ensure Accessibility & Aesthetics
+ The website or app must be used by people with:
+•	Low vision or color blindness
+•	Hearing impairments
+•	Cognitive disabilities
+•	Limited mobility
+•	Screen reader users
+•	Older adults with reduced vision or dexterity
+•	High contrast options
+•	Dyslexia-friendly typography
+•	Keyboard navigation rules
+•	ALT text guidelines
+•	Accessible color combinations
+•	Minimal aesthetic with friendly emotional tone
+•	Testing with color-blind filters
+________________________________________
+🤝 Collaboration With UI Designer
+•	Define interaction patterns
+•	Review wireframes & flows
+•	Align on animations, transitions, micro-interactions
+•	Iterate based on usability tests
+•	Sync design system usage across all pages
+________________________________________
+🌙 Dark Mode
+•	Dark theme for selected pages
+•	Auto/manual switching
+•	Accessible dark-mode contrast
+•	Adjusted icons & background layers
+________________________________________
+
+📑 Design Case Study
+A full case study including:
+•	Problem statement
+•	Research & insights
+•	Personas
+•	User journey maps
+•	Information architecture
+•	Wireframes
+•	UI direction (visual identity)
+•	High-fidelity screens
+•	Prototype
+•	Impact + outcomes
+•	Learnings & next steps
+Perfect for Behance, Dribbble, or portfolio.
+________________________________________
+If you want, I can also:
+✅ Create the visual design system
+✅ Write the full personas
+✅ Generate the survey questions
+✅ Build a case study outline
+✅ Design the website sitemap
+✅ Provide color palette + font recommendations
+
 
 
 # Work Plan
