@@ -281,7 +281,7 @@ Conclusion:
 
    ## Case Study link Figma:
 You can find the full project Case Study here:
-[https://www.figma.com/design/EB2ctGUQavEIC5GNPbFjxj/Case-Study?node-id=16-92524&t=VLXJTG7t7d0quM7s-0]
+[https://www.figma.com/design/HfPuezh9Cvs2OY9Kmuzywe/soul-figma?m=auto&t=kJaGfS6hNXvyU403-1]
 
 
  ## Case Study PDF link:
