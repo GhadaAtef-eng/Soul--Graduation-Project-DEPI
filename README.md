@@ -83,39 +83,42 @@ Parents and guardians of children with special needs, professionals (doctors, th
 
 - ### Ghada Atef Mohamed Askar  – Team Leader
    * Set design vision and goals.
+   * Design website user interface and mobile application.
+   * prototype for all pages. 
    * Coordinate team members and tasks.
+   * Ensure smooth transitions and responsiveness
    * Ensure design quality and consistency.
    * Approve final designs and manage deadlines.
+   * create case study 
       
 - ### Dina Ali - UX Researcher
   * Conduct user interviews and surveys.
   * Analyze user needs and behaviors.
-  * Create personas and user journey maps.
-  * Share insights to guide design decisions.
-    
-- ### Heba Osama Mohammed Saleh - UX Designer
   * Design user flows and wireframes.
+  * Create user journey maps.
+        
+- ### Heba Osama Mohammed Saleh - UX Designer
+  * Design High-fiedality for website.
   * Define layout and navigation structure.
-  * Ensure intuitive and accessible experiences.
-  * Align design with research findings.
+  * Dark mode for some pages.
     
 - ### Yasmin Wagdy Shendy Abdelaty - UI Designer
   * Create visual design (colors, fonts, icons).
-  * Build high-fidelity mockups and prototypes.
+  * Design website user interface and mobile application.
+  * prototype for all pages. 
   * Develop a consistent design system.
   * Ensure visual accessibility and aesthetics.
     
 - ### Alaa Hamdy Wahba - Interaction Designer
-  * Design animations and microinteractions.
+  * Design blog page.
+  * Translate the website to arabic font.
   * Add motion for feedback and flow.
-  * Ensure smooth transitions and responsiveness.
   * Collaborate with UI Designer on interaction patterns.
     
 - ### Sherif Ali Mohamed Ibrahim Hassanin - Usability Tester / QA Designer
-  * Test prototypes with real users.
+  * create accessebility page.
   * Find usability and accessibility issues.
-  * Run A/B tests and collect feedback.
-  * Recommend improvements before development.
+  * Design typography.
 
   # Instructor
   Eman Abdellatif
