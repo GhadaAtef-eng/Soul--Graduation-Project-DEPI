@@ -1,5 +1,5 @@
 # Soul  
-### Soul is a digital platform created to empower and support parents of children with special needs
+### Soul is a digital platform and mobile application created to empower and support parents of children with special needs
 
 ## Project Overview
 Soul is a digital platform created to empower and support parents of children with special needs.
@@ -13,11 +13,14 @@ Parents and guardians of children with special needs, professionals (doctors, th
 
 # Team Members
 * Ghada Atef Mohamed Askar
+* Yasmin Wagdy Shendy Abdelaty
 * Dina Ali
 * Heba Osama Mohamed Saleh
-* Yasmin Wagdy Shendy Abdelaty
 * Alaa Hamdy Wahba
 * Sherif Ali Mohamed Ibrahim Hassanin
+
+# What we do in SOUL?
+
 
 # Work Plan
 ## 1- Phase 1: Research & Discovery
@@ -33,7 +36,7 @@ Parents and guardians of children with special needs, professionals (doctors, th
 
 ## Phase 2: Information Architecture
 ### Tasks:
-* Create sitemap (main pages: Home, About, Services, Doctors, Resources, Community, Contact).
+* Create sitemap (main pages: Home, About, Doctors, Education, Community, Contact).
 * Define navigation flow and page hierarchy.
 * Prepare wireframes for desktop and mobile.
 ### Deliverables:
@@ -76,7 +79,7 @@ Parents and guardians of children with special needs, professionals (doctors, th
 
 ## Final Presentation
 * Behance-style portfolio
-* Presentation PDF
+* Case study PDF
 * Upload to GitHub
 
 ## Roles & Responsibilities
@@ -86,13 +89,30 @@ Parents and guardians of children with special needs, professionals (doctors, th
    * Design website user interface and mobile application.
    * prototype for all pages. 
    * Coordinate team members and tasks.
-   * Ensure smooth transitions and responsiveness
+   * Responsive layouts for desktop/tablet/mobile
+   * Design smooth transitions and responsiveness.
+   * Collaborate with UI Designer on interaction patterns.
+   * Dark mode colors design
    * Ensure design quality and consistency.
    * Approve final designs and manage deadlines.
-   * create case study 
+   * create case study
+
+- ### Yasmin Wagdy Shendy Abdelaty - UI Designer
+  * Create visual design (colors, fonts, icons).
+  * Define primary, secondary, and accent color palettes (with light & dark variants).
+  * Design persona.
+  * Create User Survey.
+  * Establish iconography style (outline, filled, rounded, custom)
+  * Define spacing, grid, and layout rules.
+  * Design app-specific flows. 
+  * Develop a consistent design system.
+  * Ensure visual accessibility and aesthetics.
+  * Collaborate with UI Designer on interaction patterns.
+  * Design case study.
       
 - ### Dina Ali - UX Researcher
   * Conduct user interviews and surveys.
+  * Develop user personas.
   * Analyze user needs and behaviors.
   * Design user flows and wireframes.
   * Create user journey maps.
@@ -102,23 +122,15 @@ Parents and guardians of children with special needs, professionals (doctors, th
   * Define layout and navigation structure.
   * Dark mode for some pages.
     
-- ### Yasmin Wagdy Shendy Abdelaty - UI Designer
-  * Create visual design (colors, fonts, icons).
-  * Design website user interface and mobile application.
-  * prototype for all pages. 
-  * Develop a consistent design system.
-  * Ensure visual accessibility and aesthetics.
-    
 - ### Alaa Hamdy Wahba - Interaction Designer
   * Design blog page.
+  * Create sketches for website
   * Translate the website to arabic font.
-  * Add motion for feedback and flow.
-  * Collaborate with UI Designer on interaction patterns.
     
 - ### Sherif Ali Mohamed Ibrahim Hassanin - Usability Tester / QA Designer
+  * Compatitor Analysis
+  * Select typography system (heading fonts, body fonts, accessible line spacing).
   * create accessebility page.
-  * Find usability and accessibility issues.
-  * Design typography.
 
   # Instructor
   Eman Abdellatif
