@@ -278,8 +278,11 @@ Conclusion:
 
   # Instructor
   Eman Abdellatif
+  
+ ## Link Figma:
+[https://www.figma.com/team_invite/redeem/SDSp80JhPlEnbs7nVBZea6?t=koRHrxeTSUIkzGZJ-21]
 
-   ## Case Study link Figma:
+ ## Case Study link Figma:
 You can find the full project Case Study here:
 [https://www.figma.com/design/HfPuezh9Cvs2OY9Kmuzywe/soul-figma?m=auto&t=kJaGfS6hNXvyU403-1]
 
